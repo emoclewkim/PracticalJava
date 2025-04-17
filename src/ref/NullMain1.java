@@ -9,5 +9,9 @@ public class NullMain1 {
         System.out.println("2. data = " + data);
         data = null;
         System.out.println("3. data = " + data);
+        
+        Data ddd = null;
+        
+        System.out.println(ddd);
     }
 }
